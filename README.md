@@ -9,7 +9,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 Get config:
 ```
-curl -fLo ~/.vimrc https://raw.githubusercontent.com/aostrouhhov/vim-config/refs/heads/master/.vimrc
+curl -fLo ~/.vimrc https://raw.githubusercontent.com/anthhov/vim-config/refs/heads/master/.vimrc
 ```
 
 Install plugins:
